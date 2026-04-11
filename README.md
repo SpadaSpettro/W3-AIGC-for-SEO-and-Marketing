@@ -15,5 +15,4 @@ Un flusso di lavoro che automaticamente e giornalmente genera contenuti marketin
 
 ###### Strumenti utilizzati:
 
-**n8n, Google Sheets, Notion, Slack.**
-
+**n8n, Google Sheets, Notion, Slack, IA.**
