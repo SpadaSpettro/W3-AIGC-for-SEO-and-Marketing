@@ -1,15 +1,15 @@
-###### W3 - Creazione contenuti per SEO \& Marketing
+###### W3 - Content Creation for SEO \& Marketing
 
-Un flusso di lavoro che automaticamente e giornalmente genera contenuti marketing di diversi tipi sulla base di determinati argomenti presenti su un Google Sheet e li pubblica su Notion, gestendo eventuali errori tramite avviso su Slack.
+A workflow that automatically generates various types of marketing content daily based on specific topics in a Google Sheet and publishes them to Notion, managing any errors with alerts in Slack.
 
 
 
-###### Come utilizzare il progetto:
+###### How to use the project:
 
-**Il progetto è stato realizzato in n8n.**
+**The project was created in n8n.**
 
-* Per visualizzare e utilizzare i flussi di lavoro sarà sufficiente scaricare i file .json e importarli in un worflow nella propria istanza di n8n.
-* In alternativa è possibile copiare il codice dai file .json e incollarlo in un proprio file .json da importare nella propria istanza di n8n.
+* To view and use the workflows, simply download the .json files and import them into the workflows in your n8n instance.
+* Alternatively, you can copy the code from the .json files and paste it into your own .json files to import into your n8n instance.
 
 
 
