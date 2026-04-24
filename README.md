@@ -1,6 +1,6 @@
 # W3 - Content Creation for SEO \& Marketing
 
-A workflow that automatically generates various types of marketing content daily based on specific topics in a Google Sheet and publishes them to Notion, managing any errors with alerts in Slack.
+A workflow that automatically generates various types of marketing content daily based on specific topics in a **Google Sheet** and publishes them to **Notion**, managing any errors with alerts in **Slack**.
 
 
 
